@@ -1,0 +1,44 @@
+
+
+
+			
+			EDA
+			---
+Exploratory Data Analysis:
+
+types: 
+------
+
+		Univariate : single variable (age,height)
+		
+		Bivariate : two variables (M/F population, GRE scores based on age)
+
+		Multivariate: more than two variables(Diabetes prediction using insulin, age, BMI)
+
+
+Advantages of EDA:
+-----------
+
+		-> Arriving at data driven conclusions
+		-> Checking for data anamolies and consistency
+		-> Feature Engineering
+		-> Data cleaning/preprocessing
+		-> Handle underfitting/overfitting
+
+Data visualisation: 
+------------------- converting numerical and text data into graphs and reports
+
+		-> Images are more appealing than texts
+		-> Complex o/p cannot be understood easily
+		
+Data visualisation libraries: Matplotlib, Seaborn, Plotly
+
+Graphs:
+-------
+	Barplot
+	Pie chart
+	Histogram
+	Box plot
+	Scatterplot
+	Strip plot
+		
